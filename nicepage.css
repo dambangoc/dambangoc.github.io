@@ -34082,9 +34082,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
-  font-weight: 700;
   font-size: 1.125rem;
   width: 236px;
+  font-style: italic;
   margin: -28px auto 15px;
 }
 @media (max-width: 1199px) {
@@ -34103,6 +34103,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-top: -28px;
+    font-weight: normal;
   }
 }
 
